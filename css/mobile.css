@@ -1,0 +1,13 @@
+/* Widescreen */
+@media(max-height: 450px) {
+  header {
+    padding-top: 5rem;
+  }
+}
+
+/* Laptop/Ipad */
+@media(max-height: 1360px) {
+  header {
+    padding-top: 13rem;
+  }
+}
